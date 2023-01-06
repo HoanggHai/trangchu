@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(16, 19, 43);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ht {
+    background-color: rgb(29, 27, 27);
+    border: 0.1875em solid #f4fdff;
+    box-shadow: 0.375em 0.375em 0 0 rgba(255, 255, 255, 0.125);
+    border-radius: 50%;
+    height: 9em;
+    width: 9em;
+}
+
+.box1 {
+    width: 98%;
+    height: 300px;
+    background-color: rgb(34, 34, 34);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    align-items: center;
+    display: flex;
+    border: 2px solid #ffffff;
+}
+
+li {
+    list-style-type: hiragana;
+}
+
+.font {
+    transition-duration: 0.3s;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(146, 146, 146);
+    font-size: 160%;
+    margin-left: 10px;
+    font-weight: 700;
+
+}
+.font1 {
+    transition-duration: 0.3s;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(179, 178, 178);
+    font-size: 160%;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 35px;
+}
+
+h5 {
+    font-size: 22px;
+}
+.boxtext{
+    width: 80%;
+    height: 900px;
+    background-color: rgb(63, 63, 63);
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 7px solid #000000;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.boxtt{
+    width: 90%;
+    height: 55%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(54, 54, 54);
+    border: 5px solid #000000;
+}
+.boxli{
+    width: 80%;
+    height: 50%;
+    
+}
+li {
+    list-style-type: hiragana;
+    text-decoration: none;
+}
+.font2 {
+    transition-duration: 0.3s;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(138, 138, 138);
+    font-size: 220%;
+    font-weight: 900;
+}
+.aa{
+    font-size: 35px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(82, 82, 82);
+    margin: auto;
+    font-weight: 900;
+    margin-left: 20px;
+    margin: auto;
+}
+.aa:hover{
+    font-size: 37px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin: auto;
+}
+.box5{
+    width: 99%;
+    height: 150px;
+    background-color: rgb(24, 24, 24);
+    border: 5px solid #000000;
+}
